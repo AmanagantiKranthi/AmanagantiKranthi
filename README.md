@@ -82,13 +82,9 @@ A hands-on portfolio implementation using Amazon S3, AWS Glue (PySpark), Glue Da
 > Project code and deployment instructions are published. AWS deployment evidence (job run, logs, and Athena results) will be added after a real AWS account execution.
 ---
 
-## 🏆 GitHub Repositories
-
----
-
-## 💬 Connect With Me
-
 <div align="center">
+
+**Explore my work:** [AWS Serverless Data Lake – Orders ETL Pipeline](projects/aws-serverless-data-lake/README.md)
 
 *Made with ❤️ by AmanagantiKranthi*
 
