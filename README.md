@@ -109,9 +109,24 @@ The repositories below are third-party learning resources maintained by [venkata
 
 ## Certification
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Data Engineer – Associate">
+
+**AMANGANTI KRANTHI KUMAR**
+
 **AWS Certified Data Engineer – Associate**
 
-Add the public AWS Credly badge or certification validation URL here so that visitors can verify the credential directly.
+</div>
+
+| Credential detail | Value |
+|---|---|
+| Validation number | `9e8ec306742b471293c8b17784a25255` |
+| Issue date | September 30, 2026 |
+| Expiration date | September 30, 2029 |
+| AWS validation portal | [aws.amazon.com/verification](https://aws.amazon.com/verification) |
+
+To verify, open the AWS validation portal and enter the validation number above. The certificate screenshot is the source for the dates and validation number. A direct Credly badge URL has not been supplied, so it is not claimed here.
 
 ## Let's connect
 
