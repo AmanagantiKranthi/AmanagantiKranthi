@@ -8,9 +8,9 @@
 
 # Amanaganti Kranthi Kumar
 
-### AWS Certified Data Engineer – Associate
+### AWS Certified Data Engineer – Associate  ·  AI Developer
 
-**Building practical data solutions with Python, SQL, PySpark and AWS**
+**Building cloud data pipelines and practical AI-powered applications**
 
 Hyderabad, Telangana, India
 
@@ -29,6 +29,7 @@ Hyderabad, Telangana, India
 <br><br>
 
 <img src="https://img.shields.io/badge/AWS-Data%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Data Engineering">
+<img src="https://img.shields.io/badge/AI-Application%20Development-6D28D9?style=for-the-badge&logo=openai&logoColor=white" alt="AI Application Development">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark">
@@ -39,11 +40,11 @@ Hyderabad, Telangana, India
 
 ## 👋 A little about me
 
-I am an **AWS Certified Data Engineer – Associate** interested in building dependable data pipelines and cloud-based data platforms.
+I am an **AWS Certified Data Engineer – Associate and AI Developer**, working across two connected areas: cloud data engineering and AI-powered application development.
 
-My hands-on learning and portfolio work bring together Python, SQL, PySpark, AWS data services and containerised infrastructure. I enjoy understanding how systems fit together, validating data carefully, troubleshooting issues and documenting solutions so that other people can follow them.
+On the data side, I focus on Python, SQL, PySpark, AWS services and dependable ETL/ELT workflows. On the AI side, I explore LLM application development, agent workflows, retrieval-augmented generation (RAG), and connecting AI components with databases and APIs.
 
-I believe good engineering is not just about choosing tools — it is about making the solution understandable, testable and practical to operate.
+My portfolio emphasises practical implementation, clear documentation, data quality, testing and maintainable solutions. I enjoy bringing data platforms and AI capabilities together to solve useful problems.
 
 ## 🧭 Areas I work with
 
@@ -55,7 +56,18 @@ I believe good engineering is not just about choosing tools — it is about maki
 | 🗄️ **Databases & storage** | PostgreSQL, MongoDB, Redis, MinIO, Elasticsearch |
 | 📡 **Streaming & vector search** | Apache Kafka, Qdrant, Milvus |
 | 🧰 **DevOps & developer tools** | Docker, Docker Compose, Linux, Git, GitHub, PowerShell, VS Code |
-| 🤖 **AI development – additional exposure** | LangGraph, LangChain, CrewAI, RAG, Ollama |
+| 🤖 **AI application development** | LLM applications, LangGraph, LangChain, CrewAI, RAG, Ollama, MCP concepts |
+
+## 🧠 AI Development
+
+I build and experiment with AI application workflows, including:
+
+- **LLM-powered applications:** structuring prompts, connecting models to application logic and handling outputs.
+- **Agent workflows:** exploring LangGraph and CrewAI for multi-step task orchestration.
+- **Retrieval-augmented generation:** connecting knowledge sources with vector search using tools such as Qdrant and Milvus.
+- **Local model workflows:** experimenting with Ollama and containerised supporting services.
+
+These are portfolio and hands-on learning areas; individual project pages describe the implementation and current completion status.
 
 ## 🎓 Certification
 
@@ -65,11 +77,11 @@ I believe good engineering is not just about choosing tools — it is about maki
 
 ## 🚀 Selected projects
 
-### 01 · Tinitiate Technologies — Multi-Service AI & Data Engineering Environment
+### 01 · Tinitiate Technologies — AI & Data Platform Environment
 
 [**Explore the project →**](projects/tinitiate-multiservice-ai-data-platform/README.md)
 
-A practical case study of my environment setup, service validation and troubleshooting work in the Tinitiate Technologies context.
+A practical case study of my environment setup, service validation and troubleshooting in an environment supporting AI and data-platform components.
 
 **What I worked on**
 - Bringing up and inspecting a multi-service Docker Compose environment.
@@ -110,6 +122,16 @@ A portfolio implementation that takes order CSV data through validation, dedupli
 **Project contents:** ETL source code, synthetic sample data, data-quality queries, deployment instructions and a validation checklist.
 
 <sub>Source code and documentation are published. A live AWS deployment and execution evidence have not yet been added.</sub>
+
+## ⚖️ My two focus areas
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CLOUD%20DATA%20ENGINEERING-AWS%20%7C%20ETL%20%7C%20PySpark-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="Cloud Data Engineering">
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20DEVELOPMENT-LLMs%20%7C%20RAG%20%7C%20AGENTS-6D28D9?style=for-the-badge&logo=openai&logoColor=white" alt="AI Development">
+
+</div>
 
 ## 🛠️ How I approach engineering
 
