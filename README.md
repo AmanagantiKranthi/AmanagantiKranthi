@@ -18,29 +18,26 @@
 
 ## 👋 About Me
 
-| | |
-|---|---|
-| **Name** | Amanaganti Kranthi Kumar |
-| **Location** | Hyderabad, Telangana, India |
-| **Professional focus** | AWS Data Engineering · AI Application Development |
-| **Certification** | AWS Certified Data Engineer – Associate |
-| **LinkedIn** | [linkedin.com/in/kranthi-kumar-a-b75b9965](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) |
-| **Approach** | Practical projects · Clear documentation · Data quality · Reliable workflows |
+I have **5+ years of experience working with SQL and database environments**. Alongside that experience, I am building my skills in cloud data engineering and AI application development through practical projects.
 
-I enjoy working on data engineering and AI projects. I have been building Python-based ETL workflows, exploring AWS data services, and trying out RAG applications using LangChain, Ollama and Qdrant. I use this profile to share what I build, what I learn, and the steps I follow while setting things up. I have also mentioned clearly where a project is still a work in progress.
+I enjoy understanding how things work, solving technical problems and documenting what I learn along the way. On this profile, you will find my work with Python-based ETL pipelines, AWS data services, and RAG applications using LangChain, Ollama and Qdrant. I have kept project status clear so you can see what is implemented and what still needs testing.
+
+**Current focus:** AWS data engineering · Python · Generative AI · Reliable data workflows
+
+[LinkedIn](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) · Hyderabad, India
 
 ---
 
 ## 🛠️ Technical Skills
 
-Here are some of the tools and technologies I have used in my projects or am currently learning.
+I have grouped the technologies by area. My strongest professional background is in SQL and database work; the cloud and AI tools are represented through my projects and ongoing hands-on practice.
 
-| Services / Skill Areas | Technology Stack |
+| Area | Technologies |
 |---|---|
-| ☁️ **AWS & Cloud Data Engineering** | <a href="https://aws.amazon.com/s3/"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"></a> <a href="https://aws.amazon.com/glue/"><img alt="AWS Glue" src="https://img.shields.io/badge/AWS%20Glue-FF9900.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/athena/"><img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/lambda/"><img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a> <a href="https://aws.amazon.com/iam/"><img alt="AWS IAM" src="https://img.shields.io/badge/IAM-232F3E.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/cloudwatch/"><img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?logo=amazonaws&logoColor=white"></a> |
+| ☁️ **AWS & Cloud Data Engineering — Project work** | <a href="https://aws.amazon.com/s3/"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"></a> <a href="https://aws.amazon.com/glue/"><img alt="AWS Glue" src="https://img.shields.io/badge/AWS%20Glue-FF9900.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/athena/"><img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/lambda/"><img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a> <a href="https://aws.amazon.com/iam/"><img alt="AWS IAM" src="https://img.shields.io/badge/IAM-232F3E.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/cloudwatch/"><img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?logo=amazonaws&logoColor=white"></a> |
 | 🐍 **Python & Data Processing** | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"> <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apachespark&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"> |
-| 🗄️ **Databases & SQL** | <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=databricks&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"> |
-| 🤖 **AI / LLM / Agentic Workflows** | <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=chainlink&logoColor=white"> <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-6D28D9.svg"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white"> <img alt="RAG" src="https://img.shields.io/badge/RAG-DB2777.svg"> <img alt="MCP" src="https://img.shields.io/badge/MCP-475569.svg"> |
+| 🗄️ **Databases & SQL — Professional background** | <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=databricks&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"> |
+| 🤖 **AI / LLM / Agentic Workflows — Project work** | <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=chainlink&logoColor=white"> <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-6D28D9.svg"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white"> <img alt="RAG" src="https://img.shields.io/badge/RAG-DB2777.svg"> <img alt="MCP" src="https://img.shields.io/badge/MCP-475569.svg"> |
 | 🔎 **Vector Search & AI Data Stores** | <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C.svg"> <img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A1EA.svg"> <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white"> |
 | 📦 **Data Formats & Engineering** | <img alt="Apache Parquet" src="https://img.shields.io/badge/Parquet-50ABF1.svg?logo=apacheparquet&logoColor=white"> <img alt="CSV" src="https://img.shields.io/badge/CSV-237346.svg"> <img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"> <img alt="ETL" src="https://img.shields.io/badge/ETL%2FELT-2563EB.svg"> <img alt="Data Quality" src="https://img.shields.io/badge/Data%20Quality-0F766E.svg"> |
 | 🧰 **DevOps, Containers & Tools** | <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"> <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED.svg?logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white"> |
