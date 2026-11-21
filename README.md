@@ -162,8 +162,6 @@ A portfolio implementation that takes order CSV data through validation, dedupli
 
 <sub>Source code and documentation are published. A live AWS deployment and execution evidence have not yet been added.</sub>
 
-
-
 ### 03 · AI RAG Knowledge Assistant — Local LLM + Qdrant
 
 [**Explore the project →**](projects/ai-rag-knowledge-assistant/README.md)
@@ -173,6 +171,54 @@ An original local RAG prototype that ingests authorised PDF/TXT documents, creat
 **Technology:** Python · LangChain · Ollama · Qdrant · Docker Compose
 
 <sub>Source code and setup instructions are published. Run the project locally, test retrieval quality and add your own screenshots before describing it as a completed deployment.</sub>
+
+## 📚 Learning resources & upstream repositories
+
+The repositories below are maintained by **[venkata-bcs](https://github.com/venkata-bcs)**. I use them as learning references and will document my own exercises, notes, modifications and original implementations separately. These links do not imply that I own or authored the upstream code.
+
+### ☁️ Data engineering & cloud
+| Repository | Focus |
+|:--|:--|
+| [aws-masterclass](https://github.com/venkata-bcs/aws-masterclass) | AWS learning |
+| [dbt-masterclass](https://github.com/venkata-bcs/dbt-masterclass) | dbt and analytics engineering |
+| [databricks-masterclass](https://github.com/venkata-bcs/databricks-masterclass) | Databricks |
+| [aws-cli-installation](https://github.com/venkata-bcs/aws-cli-installation) | AWS CLI setup |
+| [data-governence](https://github.com/venkata-bcs/data-governence) | Data governance |
+
+### 🤖 AI, LLMs & agentic workflows
+| Repository | Focus |
+|:--|:--|
+| [langgraph-masterclass](https://github.com/venkata-bcs/langgraph-masterclass) | LangGraph workflows |
+| [crew-ai-masterclass](https://github.com/venkata-bcs/crew-ai-masterclass) | CrewAI agents |
+| [automation-ai-ml-agentic](https://github.com/venkata-bcs/automation-ai-ml-agentic) | AI/ML and agentic automation |
+| [aws-bedrock-masterclass](https://github.com/venkata-bcs/aws-bedrock-masterclass) | Amazon Bedrock |
+| [ollama-venkata](https://github.com/venkata-bcs/ollama-venkata) | Ollama and local LLMs |
+| [free-llm-tracker](https://github.com/venkata-bcs/free-llm-tracker) | LLM discovery/tracking |
+| [ai-development-source-data](https://github.com/venkata-bcs/ai-development-source-data) | AI development reference data |
+| [tinitiate-ai-automation-code](https://github.com/venkata-bcs/tinitiate-ai-automation-code) | AI automation code |
+
+### 🐍 Python, APIs & application development
+| Repository | Focus |
+|:--|:--|
+| [python-core-language](https://github.com/venkata-bcs/python-core-language) | Python fundamentals |
+| [python-fastapi](https://github.com/venkata-bcs/python-fastapi) | FastAPI |
+| [python-async](https://github.com/venkata-bcs/python-async) | Python asynchronous programming |
+| [python-django](https://github.com/venkata-bcs/python-django) | Django |
+| [api-programming](https://github.com/venkata-bcs/api-programming) | API programming |
+| [introduction-to-programming](https://github.com/venkata-bcs/introduction-to-programming) | Programming fundamentals |
+
+### 🧰 Other technical references
+| Repository | Focus |
+|:--|:--|
+| [sqlserver](https://github.com/venkata-bcs/sqlserver) | SQL Server reference |
+| [codesh](https://github.com/venkata-bcs/codesh) | Code and shell resources |
+| [concept-p47](https://github.com/venkata-bcs/concept-p47) | Technical concepts |
+| [snowflake-emulator](https://github.com/venkata-bcs/snowflake-emulator) | Snowflake-related experiments |
+| [azure-devops](https://github.com/venkata-bcs/azure-devops) | Azure DevOps |
+| [masterclass-interactive-web-training-center](https://github.com/venkata-bcs/masterclass-interactive-web-training-center) | Interactive learning platform |
+| [automations-chrome-extensions](https://github.com/venkata-bcs/automations-chrome-extensions) | Browser automation |
+| [tinitiate-onboarding](https://github.com/venkata-bcs/tinitiate-onboarding) | Tinitiate onboarding resources |
+| [venkata-bcs](https://github.com/venkata-bcs/venkata-bcs) | Upstream profile repository |
 
 ## ⚖️ My two focus areas
 
