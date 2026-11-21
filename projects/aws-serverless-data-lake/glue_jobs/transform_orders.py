@@ -74,7 +74,7 @@ curated = (
 
 (
     curated.write
-    .mode("append")
+    .mode("overwrite")
     .format("parquet")
     .partitionBy("order_year", "order_month", "order_day")
     .save(args["TARGET_PATH"])
@@ -82,7 +82,7 @@ curated = (
 
 (
     rejected.write
-    .mode("append")
+    .mode("overwrite")
     .format("parquet")
     .save(args["QUARANTINE_PATH"])
 )
