@@ -34,6 +34,14 @@
 ### Connect & Follow
 
 <div align="center">
+<a href="https://wa.me/919704223255">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:kranthiamanaganti@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-kranthiamanaganti%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
