@@ -1,141 +1,104 @@
-<!-- Profile README for AmanagantiKranthi -->
+<!-- Profile README inspired by a grouped skill-badge layout; profile content is specific to AmanagantiKranthi. -->
 <div align="center">
 
-# Amanaganti Kranthi Kumar
+# AMANAGANTI KRANTHI KUMAR
 
-### AWS Data Engineer | AI Application Developer
+### AWS Certified Data Engineer – Associate | AI Application Developer
 
-**I build cloud data pipelines and practical AI applications.**
+**Cloud Data Engineering · Generative AI · Agentic Applications**
 
-Hyderabad, India · [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) · [Email](mailto:kranthiamanaganti@gmail.com)
-
-<a href="https://www.credly.com/" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Data Engineer Associate"></a>
-<img src="https://img.shields.io/badge/Focus-Cloud%20Data%20%7C%20AI-6D28D9?style=for-the-badge" alt="Cloud Data and AI">
+<a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kranthiamanaganti@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hyderabad, India">
+<img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS certification">
 
 </div>
 
 ---
 
-## About
+## 👋 About Me
 
-I work across two connected engineering areas:
+| | |
+|---|---|
+| **Name** | Amanaganti Kranthi Kumar |
+| **Location** | Hyderabad, Telangana, India |
+| **Professional focus** | AWS Data Engineering · AI Application Development |
+| **Certification** | AWS Certified Data Engineer – Associate |
+| **LinkedIn** | [linkedin.com/in/kranthi-kumar-a-b75b9965](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) |
+| **Approach** | Practical projects · Clear documentation · Data quality · Reliable workflows |
 
-- **Cloud data engineering:** Python, SQL, PySpark, AWS data services, ETL/ELT, data quality and analytics-ready storage.
-- **AI application development:** LLM-powered applications, retrieval-augmented generation (RAG), vector search and agent workflows.
+I work across two connected areas: building cloud data pipelines and developing practical AI-powered applications. My portfolio highlights project code, architecture notes, setup instructions and hands-on learning. Project pages state their implementation status transparently.
 
-I value practical implementation, reproducible setup steps, clear documentation, testing and operational awareness. This profile separates original portfolio work from third-party learning resources.
+---
 
-## Featured projects
+## 🛠️ Technical Skills
 
-### 1. AWS Serverless Data Lake — Orders ETL
+The grouped skill badges below highlight the technologies relevant to my portfolio and learning work.
 
-[**View project →**](projects/aws-serverless-data-lake/README.md)
+| Services / Skill Areas | Technology Stack |
+|---|---|
+| ☁️ **AWS & Cloud Data Engineering** | <a href="https://aws.amazon.com/s3/"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"></a> <a href="https://aws.amazon.com/glue/"><img alt="AWS Glue" src="https://img.shields.io/badge/AWS%20Glue-FF9900.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/athena/"><img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/lambda/"><img alt="AWS Lambda" src="https://img.shields.io/badge/Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a> <a href="https://aws.amazon.com/iam/"><img alt="AWS IAM" src="https://img.shields.io/badge/IAM-232F3E.svg?logo=amazonaws&logoColor=white"></a> <a href="https://aws.amazon.com/cloudwatch/"><img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?logo=amazonaws&logoColor=white"></a> |
+| 🐍 **Python & Data Processing** | <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"> <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apachespark&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"> |
+| 🗄️ **Databases & SQL** | <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C.svg?logo=databricks&logoColor=white"> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"> |
+| 🤖 **AI / LLM / Agentic Workflows** | <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white"> <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C.svg?logo=chainlink&logoColor=white"> <img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-6D28D9.svg"> <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white"> <img alt="RAG" src="https://img.shields.io/badge/RAG-DB2777.svg"> <img alt="MCP" src="https://img.shields.io/badge/MCP-475569.svg"> |
+| 🔎 **Vector Search & AI Data Stores** | <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C.svg"> <img alt="Milvus" src="https://img.shields.io/badge/Milvus-00A1EA.svg"> <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-005571.svg?logo=elasticsearch&logoColor=white"> |
+| 📦 **Data Formats & Engineering** | <img alt="Apache Parquet" src="https://img.shields.io/badge/Parquet-50ABF1.svg?logo=apacheparquet&logoColor=white"> <img alt="CSV" src="https://img.shields.io/badge/CSV-237346.svg"> <img alt="JSON" src="https://img.shields.io/badge/JSON-000000.svg?logo=json&logoColor=white"> <img alt="ETL" src="https://img.shields.io/badge/ETL%2FELT-2563EB.svg"> <img alt="Data Quality" src="https://img.shields.io/badge/Data%20Quality-0F766E.svg"> |
+| 🧰 **DevOps, Containers & Tools** | <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"> <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED.svg?logo=docker&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"> <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white"> |
 
-A PySpark ETL portfolio project that validates incoming order records, separates rejected rows, deduplicates records and writes curated Parquet data for downstream analytics.
+---
 
-**Stack:** AWS Glue · Amazon S3 · PySpark · Parquet · Athena SQL
-
-**Includes:** ETL source, synthetic sample data, data-quality SQL and deployment/validation guidance.
-
-> Status: Code and documentation published. Live AWS deployment and execution evidence are not yet included.
-
-### 2. AI RAG Knowledge Assistant — Local LLM + Qdrant
-
-[**View project →**](projects/ai-rag-knowledge-assistant/README.md)
-
-A local retrieval-augmented generation prototype that ingests authorised PDF/TXT documents, creates embeddings with Ollama, stores vectors in Qdrant and answers questions using retrieved context.
-
-**Stack:** Python · LangChain · Ollama · Qdrant · Docker Compose
-
-**Includes:** ingestion and question-answering scripts, dependency list and local setup instructions.
-
-> Status: Prototype source and documentation published. Run and validate it locally before presenting it as a completed deployment.
-
-### 3. Multi-service AI & Data Platform — Environment Case Study
-
-[**View case study →**](projects/tinitiate-multiservice-ai-data-platform/README.md)
-
-Hands-on notes on configuring and validating a local multi-service environment, checking containers, logs, ports and service health, and documenting troubleshooting.
-
-**Stack:** Docker Compose · PostgreSQL · Kafka · MongoDB · Redis · Object storage · Vector databases
-
-> The upstream platform is maintained by [Tinitiate](https://github.com/venkata-bcs/tinitiate-ai-setup). This entry describes my environment setup and validation work, not original ownership of that platform.
-
-## Technical toolkit
-
-| Cloud data engineering | AI application development | Engineering foundations |
-|---|---|---|
-| AWS · S3 · Glue · Athena | LLM applications · RAG | Python · SQL |
-| PySpark · ETL/ELT · Parquet | LangGraph · CrewAI · LangChain | Docker · Linux · Git |
-| Data quality · partitioning | Ollama · Qdrant · Milvus | PostgreSQL · Kafka |
-
-## Learning references
-
-The repositories below are third-party learning resources maintained by [venkata-bcs](https://github.com/venkata-bcs). They are listed as study references; they are not represented as my original work.
-
-<details>
-<summary><strong>Cloud and data engineering</strong></summary>
-
-- [AWS Masterclass](https://github.com/venkata-bcs/aws-masterclass)
-- [dbt Masterclass](https://github.com/venkata-bcs/dbt-masterclass)
-- [Databricks Masterclass](https://github.com/venkata-bcs/databricks-masterclass)
-- [AWS CLI Installation](https://github.com/venkata-bcs/aws-cli-installation)
-- [Data Governance](https://github.com/venkata-bcs/data-governence)
-
-</details>
-
-<details>
-<summary><strong>AI, LLMs and agentic workflows</strong></summary>
-
-- [LangGraph Masterclass](https://github.com/venkata-bcs/langgraph-masterclass)
-- [CrewAI Masterclass](https://github.com/venkata-bcs/crew-ai-masterclass)
-- [AWS Bedrock Masterclass](https://github.com/venkata-bcs/aws-bedrock-masterclass)
-- [Agentic AI / ML Automation](https://github.com/venkata-bcs/automation-ai-ml-agentic)
-- [Ollama](https://github.com/venkata-bcs/ollama-venkata)
-- [AI Development Source Data](https://github.com/venkata-bcs/ai-development-source-data)
-
-</details>
-
-<details>
-<summary><strong>Python and application development</strong></summary>
-
-- [Python Core](https://github.com/venkata-bcs/python-core-language)
-- [Python Async](https://github.com/venkata-bcs/python-async)
-- [FastAPI](https://github.com/venkata-bcs/python-fastapi)
-- [Django](https://github.com/venkata-bcs/python-django)
-- [API Programming](https://github.com/venkata-bcs/api-programming)
-
-</details>
-
-## Certification
+## 🎓 AWS Certification
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Certified-Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Data Engineer – Associate">
+<img src="https://img.shields.io/badge/AWS%20CERTIFIED-Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Data Engineer – Associate">
 
-**AMANGANTI KRANTHI KUMAR**
-
-**AWS Certified Data Engineer – Associate**
+**AMANAGANTI KRANTHI KUMAR**
 
 </div>
 
-| Credential detail | Value |
+| Credential Detail | Certificate Information |
 |---|---|
-| Validation number | `9e8ec306742b471293c8b17784a25255` |
-| Issue date | September 30, 2026 |
-| Expiration date | September 30, 2029 |
-| AWS validation portal | [aws.amazon.com/verification](https://aws.amazon.com/verification) |
+| Certification | AWS Certified Data Engineer – Associate |
+| Validation Number | `9e8ec306742b471293c8b17784a25255` |
+| Issue Date | September 30, 2026 |
+| Expiration Date | September 30, 2029 |
+| Validation Portal | [AWS Certification Verification](https://aws.amazon.com/verification) |
 
-To verify, open the AWS validation portal and enter the validation number above. The certificate screenshot is the source for the dates and validation number. A direct Credly badge URL has not been supplied, so it is not claimed here.
+To verify the credential, visit the AWS portal and enter the validation number. Certificate details above were transcribed from the certificate image supplied in this conversation; the portal verification has not been independently completed here.
 
-## Let's connect
+---
 
-I welcome conversations about cloud data engineering, AI applications, practical automation and collaborative projects.
+## 🚀 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/)
-- [Email](mailto:kranthiamanaganti@gmail.com)
+| Project | Description & Stack |
+|---|---|
+| **[AWS Serverless Data Lake — Orders ETL](projects/aws-serverless-data-lake/README.md)** | PySpark ETL portfolio project covering input validation, rejected records, deduplication and curated Parquet output. **Stack:** AWS Glue · S3 · PySpark · Athena SQL. *Code and documentation published; live AWS execution evidence is not yet included.* |
+| **[AI RAG Knowledge Assistant — Local LLM + Qdrant](projects/ai-rag-knowledge-assistant/README.md)** | Local RAG prototype for authorised PDF/TXT ingestion, Ollama embeddings, Qdrant vector storage and context-based question answering. **Stack:** Python · LangChain · Ollama · Qdrant · Docker Compose. *Prototype code published; local execution and retrieval tests remain to be documented.* |
+| **[Multi-service AI & Data Platform — Case Study](projects/tinitiate-multiservice-ai-data-platform/README.md)** | Hands-on environment setup and validation notes for containers, service health, ports and troubleshooting. **Stack:** Docker Compose · PostgreSQL · Kafka · MongoDB · Redis · object storage · vector databases. *Upstream platform maintained by [Tinitiate](https://github.com/venkata-bcs/tinitiate-ai-setup); this is a case study of my setup work.* |
+
+---
+
+## 📚 Learning Resources
+
+These are third-party repositories maintained by [venkata-bcs](https://github.com/venkata-bcs), included as learning references and not presented as my original work.
+
+| Area | Learning Repositories |
+|---|---|
+| **AWS & Data Engineering** | [AWS Masterclass](https://github.com/venkata-bcs/aws-masterclass) · [dbt Masterclass](https://github.com/venkata-bcs/dbt-masterclass) · [Databricks](https://github.com/venkata-bcs/databricks-masterclass) · [AWS CLI](https://github.com/venkata-bcs/aws-cli-installation) |
+| **AI & Agentic Development** | [LangGraph](https://github.com/venkata-bcs/langgraph-masterclass) · [CrewAI](https://github.com/venkata-bcs/crew-ai-masterclass) · [AWS Bedrock](https://github.com/venkata-bcs/aws-bedrock-masterclass) · [Agentic AI/ML](https://github.com/venkata-bcs/automation-ai-ml-agentic) · [Ollama](https://github.com/venkata-bcs/ollama-venkata) |
+| **Python & APIs** | [Python Core](https://github.com/venkata-bcs/python-core-language) · [Python Async](https://github.com/venkata-bcs/python-async) · [FastAPI](https://github.com/venkata-bcs/python-fastapi) · [Django](https://github.com/venkata-bcs/python-django) · [API Programming](https://github.com/venkata-bcs/api-programming) |
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kranthiamanaganti@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<br><br>
 
 *Build · Validate · Document · Improve*
 
