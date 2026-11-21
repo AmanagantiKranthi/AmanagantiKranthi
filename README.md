@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--           VENKATA BHATTARAM · GitHub Profile README            -->
+<!--          AMANAGANTI KRANTHI KUMAR · GitHub Profile README            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
