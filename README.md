@@ -48,15 +48,54 @@ My portfolio emphasises practical implementation, clear documentation, data qual
 
 ## 🧭 Areas I work with
 
-| Area | Tools and concepts |
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" bgcolor="#172554">
+
+<h3 align="center">☁️ AWS DATA ENGINEERING</h3>
+<p align="center"><img src="https://img.shields.io/badge/CLOUD%20DATA-Engineering-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Data Engineering"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3">
+<img src="https://img.shields.io/badge/AWS%20Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Glue">
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda">
+<img src="https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white" alt="Athena">
+<img src="https://img.shields.io/badge/IAM-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="IAM">
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white" alt="CloudWatch">
+</p>
+<p align="center"><strong>ETL / ELT · Data Lakes · Batch Processing · Data Quality · Parquet · Partitioning</strong></p>
+
+</td>
+<td width="50%" valign="top" bgcolor="#2E1065">
+
+<h3 align="center">🤖 AI APPLICATION DEVELOPMENT</h3>
+<p align="center"><img src="https://img.shields.io/badge/GENERATIVE%20AI-Application%20Development-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Application Development"></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/CrewAI-6D28D9?style=flat-square" alt="CrewAI">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/RAG-DB2777?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/MCP-475569?style=flat-square" alt="MCP">
+</p>
+<p align="center"><strong>LLM Applications · AI Agents · RAG Pipelines · Tool Calling · Workflow Orchestration</strong></p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🧩 Supporting technologies
+
+| Area | Technology badges |
 |:--|:--|
-| ☁️ **AWS & cloud data** | Amazon S3, AWS Glue, AWS Lambda, IAM, CloudWatch, Glue Data Catalog, Athena |
-| 🔄 **Data engineering** | ETL/ELT, batch processing, data lakes, data validation, data quality, Parquet, partitioning |
-| 🐍 **Programming & query** | Python, SQL, PySpark |
-| 🗄️ **Databases & storage** | PostgreSQL, MongoDB, Redis, MinIO, Elasticsearch |
-| 📡 **Streaming & vector search** | Apache Kafka, Qdrant, Milvus |
-| 🧰 **DevOps & developer tools** | Docker, Docker Compose, Linux, Git, GitHub, PowerShell, VS Code |
-| 🤖 **AI application development** | LLM applications, LangGraph, LangChain, CrewAI, RAG, Ollama, MCP concepts |
+| 🐍 **Programming & query** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/SQL-0F766E?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"> |
+| 🗄️ **Databases & storage** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"> <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch"> |
+| 📡 **Streaming & vector search** | <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" alt="Qdrant"> <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat-square" alt="Milvus"> |
+| 🧰 **DevOps & developer tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"> |
 
 ## 🧠 AI Development
 
