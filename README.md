@@ -5,21 +5,21 @@
 <div align="center">
 
 <!-- ── MARQUEE LINE 1 : scrolling banner (SVG animation, works on GitHub) ── -->
-<img src="https://raw.githubusercontent.com/v-AMANAGANTI KRANTHI KUMAR/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/>
+<img src="https://raw.githubusercontent.com/AmanagantiKranthi/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/>
 
 
 <br/><br/>
 
 <!-- ── BADGES ── -->
-<a href="https://www.linkedin.com/in/venkata-bhattaram/">
-  <img src="https://img.shields.io/badge/LinkedIn-venkata--bhattaram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/Amanaganti Kranthi/">
+  <img src="https://img.shields.io/badge/LinkedIn-AmanagantiKranthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/Location-Dallas%2C%20TX%2C%20USA-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=v-bhattaram&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Amanaganti Kranthi&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
@@ -63,6 +63,6 @@
 
 <br/><br/>
 
-*Made with ❤️ by Venkata Bhattaram*
+*Made with ❤️ by Amanaganti Kranthi *
 
 </div>
