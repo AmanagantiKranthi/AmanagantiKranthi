@@ -5,13 +5,13 @@
 <div align="center">
 
 <!-- ── MARQUEE LINE 1 : scrolling banner (SVG animation, works on GitHub) ── -->
-<img src="https://raw.githubusercontent.com/AmanagantiKranthi/refs/heads/main/marquee-top.svg" width="100%" alt="marquee"/>
+<h1 align="center">AMANAGANTI KRANTHI KUMAR</h1>
 
 
 <br/><br/>
 
 <!-- ── BADGES ── -->
-<a href="https://www.linkedin.com/in/Amanaganti Kranthi/">
+<a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/">
   <img src="https://img.shields.io/badge/LinkedIn-AmanagantiKranthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -19,7 +19,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Amanaganti Kranthi&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AmanagantiKranthi&label=Profile+Views&color=00D9FF&style=for-the-badge"/>
 
 </div>
 
