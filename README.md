@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-AmanagantiKranthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20TX%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20TS%2C%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 &nbsp;
