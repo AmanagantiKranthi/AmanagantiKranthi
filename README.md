@@ -1,7 +1,7 @@
 <!-- Profile README inspired by a grouped skill-badge layout; profile content is specific to AmanagantiKranthi. -->
 <div align="center">
 
-# AMANAGANTI KRANTHI KUMAR
+# Amanaganti Kranthi Kumar
 
 ### AWS Data Engineer | AI Engineer
 
