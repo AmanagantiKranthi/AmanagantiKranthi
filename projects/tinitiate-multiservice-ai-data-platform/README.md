@@ -77,6 +77,22 @@ docker compose -f tinitiate-ai-onboarding.yml down
 
 To start only selected services, list their service names after `up -d`. Confirm dependencies and health before using dependent services.
 
+## PowerShell inspection helper
+
+A small helper script is included at [scripts/inspect-stack.ps1](scripts/inspect-stack.ps1). Run it from this project directory, passing the path to the upstream Compose file:
+
+```powershell
+.\scripts\inspect-stack.ps1 -ComposeFile "C:\path\to\tinitiate-ai-onboarding.yml"
+```
+
+To inspect recent logs for one service:
+
+```powershell
+.\scripts\inspect-stack.ps1 -ComposeFile "C:\path\to\tinitiate-ai-onboarding.yml" -Service postgres
+```
+
+The script checks Docker availability, validates the Compose configuration, and displays container status. It does not start, stop, modify, or certify the environment.
+
 ## Validation checklist
 
 - [ ] Docker Engine is running.
