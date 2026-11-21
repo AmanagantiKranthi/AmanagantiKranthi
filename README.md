@@ -25,7 +25,7 @@
 
 ---
 
-| 🚀 About Me | Venkata Bhattaram |
+| 🚀 About Me |AMANAGANTI KRANTHI KUMAR|
 |---|---|
 | **Location** | Remote - USA <br> Dallas TX, USA |
 | **LinkedIn** | [linkedin.com/in/venkata-bhattaram](https://www.linkedin.com/in/venkata-bhattaram/) |
