@@ -28,7 +28,7 @@
 | 🚀 About Me |AMANAGANTI KRANTHI KUMAR|
 |---|---|
 | **Location** | Remote - Hyderabad <br> Telangana , India |
-| **LinkedIn** | [linkedin.com/in/venkata-bhattaram](https://www.linkedin.com/in/venkata-bhattaram/) |
+| **LinkedIn** |[ https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/ |
 | **Focus** | 🔹 Frameworks and Reusable Code <br> 🔹 Cost Effective Solutions <br> 🔹 Well Documented and Formatted Code <br> 🔹 Building impactful software solutions |
 | **Interests** | 💎 Data Engineering & Architecture <br> 💎 Data Quality and Governance <br> 💎 AI Models Automation Agents  <br> 💎 Open Source Contributions, Continuous Learning |
 
