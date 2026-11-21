@@ -27,7 +27,7 @@
 
 | 🚀 About Me |AMANAGANTI KRANTHI KUMAR|
 |---|---|
-| **Location** | Remote - USA <br> Dallas TX, USA |
+| **Location** | Remote - Hyderabad <br> Telangana , India |
 | **LinkedIn** | [linkedin.com/in/venkata-bhattaram](https://www.linkedin.com/in/venkata-bhattaram/) |
 | **Focus** | 🔹 Frameworks and Reusable Code <br> 🔹 Cost Effective Solutions <br> 🔹 Well Documented and Formatted Code <br> 🔹 Building impactful software solutions |
 | **Interests** | 💎 Data Engineering & Architecture <br> 💎 Data Quality and Governance <br> 💎 AI Models Automation Agents  <br> 💎 Open Source Contributions, Continuous Learning |
