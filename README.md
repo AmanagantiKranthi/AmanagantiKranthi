@@ -19,6 +19,7 @@
 <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=AmanagantiKranthi&label=Profile%20Views&color=00D9FF&style=flat-square"/>
 
 </div>
+
 ---
 
 ## 🚀 About Me
@@ -31,6 +32,7 @@
 | **LinkedIn** | [Connect with me](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) |
 | **Focus** | AWS Data Engineering, ETL/ELT Pipelines, Data Lakes, Data Quality, and Cloud Analytics |
 | **Interests** | Serverless Data Platforms, Scalable Data Architecture, Analytics Engineering, and Open Source Learning |
+
 ---
 ### Connect & Follow
 
@@ -51,6 +53,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-AmanagantiKranthi-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 </div>
+
 ---
 
 ## 🛠️ AWS Data Engineering Technology
