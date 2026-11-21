@@ -162,6 +162,18 @@ A portfolio implementation that takes order CSV data through validation, dedupli
 
 <sub>Source code and documentation are published. A live AWS deployment and execution evidence have not yet been added.</sub>
 
+
+
+### 03 · AI RAG Knowledge Assistant — Local LLM + Qdrant
+
+[**Explore the project →**](projects/ai-rag-knowledge-assistant/README.md)
+
+An original local RAG prototype that ingests authorised PDF/TXT documents, creates embeddings with Ollama, stores vectors in Qdrant and answers questions using retrieved context.
+
+**Technology:** Python · LangChain · Ollama · Qdrant · Docker Compose
+
+<sub>Source code and setup instructions are published. Run the project locally, test retrieval quality and add your own screenshots before describing it as a completed deployment.</sub>
+
 ## ⚖️ My two focus areas
 
 <div align="center">
