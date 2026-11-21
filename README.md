@@ -27,13 +27,13 @@
 | **LinkedIn** | [linkedin.com/in/kranthi-kumar-a-b75b9965](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) |
 | **Approach** | Practical projects · Clear documentation · Data quality · Reliable workflows |
 
-I work across two connected areas: building cloud data pipelines and developing practical AI-powered applications. My portfolio highlights project code, architecture notes, setup instructions and hands-on learning. Project pages state their implementation status transparently.
+I enjoy working on data engineering and AI projects. I have been building Python-based ETL workflows, exploring AWS data services, and trying out RAG applications using LangChain, Ollama and Qdrant. I use this profile to share what I build, what I learn, and the steps I follow while setting things up. I have also mentioned clearly where a project is still a work in progress.
 
 ---
 
 ## 🛠️ Technical Skills
 
-The grouped skill badges below highlight the technologies relevant to my portfolio and learning work.
+Here are some of the tools and technologies I have used in my projects or am currently learning.
 
 | Services / Skill Areas | Technology Stack |
 |---|---|
@@ -65,7 +65,7 @@ The grouped skill badges below highlight the technologies relevant to my portfol
 | Expiration Date | September 30, 2029 |
 | Validation Portal | [AWS Certification Verification](https://aws.amazon.com/verification) |
 
-To verify the credential, visit the AWS portal and enter the validation number. Certificate details above were transcribed from the certificate image supplied in this conversation; the portal verification has not been independently completed here.
+You can check this certificate on the AWS verification portal using the validation number above. I added these details from the certificate image I shared; I have not independently verified them through the portal here.
 
 ---
 
@@ -73,15 +73,15 @@ To verify the credential, visit the AWS portal and enter the validation number. 
 
 | Project | Description & Stack |
 |---|---|
-| **[AWS Serverless Data Lake — Orders ETL](https://github.com/AmanagantiKranthi/aws-serverless-data-lake)** | PySpark ETL portfolio project covering input validation, rejected records, deduplication and curated Parquet output. **Stack:** AWS Glue · S3 · PySpark · Athena SQL. *Code and documentation published; live AWS execution evidence is not yet included.* |
-| **[AI RAG Knowledge Assistant — Local LLM + Qdrant](https://github.com/AmanagantiKranthi/ai-rag-knowledge-assistant)** | Local RAG prototype for authorised PDF/TXT ingestion, Ollama embeddings, Qdrant vector storage and context-based question answering. **Stack:** Python · LangChain · Ollama · Qdrant · Docker Compose. *Prototype code published; local execution and retrieval tests remain to be documented.* |
-| **[Multi-service AI & Data Platform — Case Study](https://github.com/AmanagantiKranthi/tinitiate-multiservice-ai-data-platform)** | Hands-on environment setup and validation notes for containers, service health, ports and troubleshooting. **Stack:** Docker Compose · PostgreSQL · Kafka · MongoDB · Redis · object storage · vector databases. *Upstream platform maintained by [Tinitiate](https://github.com/venkata-bcs/tinitiate-ai-setup); this is a case study of my setup work.* |
+| **[AWS Serverless Data Lake — Orders ETL](https://github.com/AmanagantiKranthi/aws-serverless-data-lake)** | A sample orders pipeline built with PySpark. It checks input records, separates rejected rows, removes duplicates and writes the cleaned data in Parquet format. **Tools:** AWS Glue · S3 · PySpark · Athena SQL. *The code and notes are available here; I have not added proof of a live AWS run yet.* |
+| **[AI RAG Knowledge Assistant — Local LLM + Qdrant](https://github.com/AmanagantiKranthi/ai-rag-knowledge-assistant)** | A small local RAG application that can ingest PDF and TXT files, create embeddings with Ollama, store them in Qdrant and answer questions using the retrieved content. **Tools:** Python · LangChain · Ollama · Qdrant · Docker Compose. *I have published the prototype code; local run and retrieval test results are still to be added.* |
+| **[Multi-service AI & Data Platform — Case Study](https://github.com/AmanagantiKranthi/tinitiate-multiservice-ai-data-platform)** | Notes from setting up and checking a multi-service environment with Docker Compose. I have documented the containers, ports, service status and a few troubleshooting steps. **Tools:** Docker Compose · PostgreSQL · Kafka · MongoDB · Redis · object storage · vector databases. *The original platform is maintained by [Tinitiate](https://github.com/venkata-bcs/tinitiate-ai-setup); this repository documents my own setup and validation work.* |
 
 ---
 
 ## 📚 Learning Resources
 
-These are third-party repositories maintained by [venkata-bcs](https://github.com/venkata-bcs), included as learning references and not presented as my original work.
+I use these repositories by [venkata-bcs](https://github.com/venkata-bcs) as learning references. They are shared here for reference, not as projects created by me.
 
 | Area | Learning Repositories |
 |---|---|
