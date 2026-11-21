@@ -20,15 +20,15 @@
 
 ## 👋 About Me
 
-I have **5+ years of professional experience in AWS Data Engineering**. My work focuses on building and supporting data pipelines, working with structured data, and making data easier to process and use.
+I am an **AWS Data Engineer with 5+ years of professional experience**, focused on building and supporting data pipelines.
 
-I work with Python, SQL and data engineering workflows, including ETL, data validation and data quality checks. I also work with AWS services such as Amazon S3, AWS Glue and Athena. Alongside data engineering, I build AI applications and explore practical uses of Generative AI, RAG and agentic workflows using tools such as LangChain, Ollama and Qdrant.
+I work with **AWS S3, Glue, Athena, Python, SQL and PySpark**, covering ETL development, data validation and data quality.
 
-I like keeping things practical: understand the requirement, build the solution, test it, and document what works. The repositories below show examples of my project work in data engineering and AI.
+I also build **AI applications** using **LangChain, Ollama and Qdrant**, with a focus on document-based RAG and practical LLM workflows.
 
-**Professional focus:** AWS Data Engineering · AI Application Development
+This profile brings together my data engineering and AI projects, along with the code and setup notes behind them.
 
-**Technologies:** AWS · Python · SQL · PySpark · ETL/ELT · Generative AI · RAG
+**Focus:** AWS Data Engineering · AI Application Development
 
 [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) · Hyderabad, India
 
