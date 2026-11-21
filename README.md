@@ -59,9 +59,7 @@ I believe good engineering is not just about choosing tools — it is about maki
 
 ## 🎓 Certification
 
-<a href="https://www.credly.com/">
-  <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Data Engineer – Associate">
-</a>
+<img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20--%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Data Engineer – Associate">
 
 *Credential verification link can be added here when available.*
 
