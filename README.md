@@ -4,38 +4,44 @@
 
 <div align="center">
 
-<!-- ── MARQUEE LINE 1 : scrolling banner (SVG animation, works on GitHub) ── -->
-<h1 align="center">AMANAGANTI KRANTHI KUMAR</h1>
+<h1>AMANAGANTI KRANTHI KUMAR</h1>
+<p><strong>GitHub:</strong> AmanagantiKranthi</p>
 
-
-<br/><br/>
-
-<!-- ── BADGES ── -->
 <a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/">
-  <img src="https://img.shields.io/badge/LinkedIn-AmanagantiKranthi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img alt="LinkedIn - AmanagantiKranthi" src="https://img.shields.io/badge/LinkedIn-AmanagantiKranthi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20TS%2C%20India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img alt="Location - Hyderabad, India" src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white"/>
+<img alt="Status - Open to Work" src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square&logo=checkmarx&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=AmanagantiKranthi&label=Profile+Views&color=00D9FF&style=flat-square"/>
+<img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=AmanagantiKranthi&label=Profile%20Views&color=00D9FF&style=flat-square"/>
 
 </div>
-
 ---
 
-| 🚀 About Me |AMANAGANTI KRANTHI KUMAR|
-|---|---|
-| **Location** | Remote - Hyderabad <br> Telangana , India |
-| **LinkedIn** |[ https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/] |
-| **Focus** | 🔹 Frameworks and Reusable Code <br> 🔹 Cost Effective Solutions <br> 🔹 Well Documented and Formatted Code <br> 🔹 Building impactful software solutions |
-| **Interests** | 💎 Data Engineering & Architecture <br> 💎 Data Quality and Governance <br> 💎 AI Models Automation Agents  <br> 💎 Open Source Contributions, Continuous Learning |
+## 🚀 About Me
 
+| Field | Details |
+|---|---|
+| **Name** | Amanaganti Kranthi Kumar |
+| **GitHub** | [AmanagantiKranthi](https://github.com/AmanagantiKranthi) |
+| **Location** | Hyderabad, Telangana, India |
+| **LinkedIn** | [Connect with me](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) |
+| **Focus** | Database Administration, Data Engineering, Cloud, and AI Automation |
+| **Interests** | Database Reliability, Data Architecture, Data Quality, and Open Source Learning |
 ---
 ### Connect & Follow
-<a href="https://wa.me/19736536870" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/venkata-bhattaram/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@aiquickbuilds" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a> <a href="https://github.com/v-bhattaram" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
+<div align="center">
+<a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/AmanagantiKranthi">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-AmanagantiKranthi-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+</div>
 ---
 
 ## 🛠️ Technology Focus
@@ -56,11 +62,7 @@
 ## 💬 Connect With Me
 
 <div align="center">
-<!-- ── MARQUEE LINE 2 : scrolling quote (SVG animation) ── -->
-<img src="https://raw.githubusercontent.com/v-bhattaram/v-bhattaram/refs/heads/main/marquee-quote.svg" width="100%" alt="quote marquee"/>
 
-<br/><br/>
-
-*Made with ❤️ by Amanaganti Kranthi *
+*Made with ❤️ by AmanagantiKranthi*
 
 </div>
