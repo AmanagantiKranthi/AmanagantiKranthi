@@ -3,9 +3,11 @@
 
 # AMANAGANTI KRANTHI KUMAR
 
-### AWS Certified Data Engineer – Associate | AI Application Developer
+### AWS Data Engineer | AI Engineer
 
-**Cloud Data Engineering · Generative AI · Agentic Applications**
+**AWS Certified Data Engineer – Associate**
+
+**Cloud Data Pipelines · Generative AI · RAG & Agentic Applications**
 
 <a href="https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kranthiamanaganti@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -18,11 +20,15 @@
 
 ## 👋 About Me
 
-I have **5+ years of experience working with SQL and database environments**. Alongside that experience, I am building my skills in cloud data engineering and AI application development through practical projects.
+I bring **5+ years of experience working with SQL and database environments**. I am now applying that foundation to two areas I enjoy working in: **AWS data engineering and AI application development**.
 
-I enjoy understanding how things work, solving technical problems and documenting what I learn along the way. On this profile, you will find my work with Python-based ETL pipelines, AWS data services, and RAG applications using LangChain, Ollama and Qdrant. I have kept project status clear so you can see what is implemented and what still needs testing.
+On the data engineering side, I work on Python and PySpark ETL workflows, data validation, data quality checks and cloud data services such as Amazon S3, AWS Glue and Athena. On the AI side, I build and experiment with document-based RAG applications using LangChain, Ollama and Qdrant, and explore how agentic workflows can be used to solve practical problems.
 
-**Current focus:** AWS data engineering · Python · Generative AI · Reliable data workflows
+I prefer learning by building, testing and documenting. The repositories below show my hands-on work, and I clearly mention where a project is a prototype or still needs execution evidence.
+
+**Areas I am targeting:** AWS Data Engineer · AI Engineer
+
+**Core foundation:** SQL · Database systems · Data troubleshooting · Python
 
 [LinkedIn](https://www.linkedin.com/in/kranthi-kumar-a-b75b9965/) · Hyderabad, India
 
